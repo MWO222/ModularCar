@@ -38876,3 +38876,42 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.27-19.53.49:375][402]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7023.182129
 [2025.07.27-19.53.50:374][405]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.07.27-19.53.50:374][406]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7023.848145, Update Interval: 324.666901
+[2025.07.27-19.55.22:052][680]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 790...b4b
+[2025.07.27-19.55.22:052][680]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.93 RefreshExpires: 1.554e+07
+[2025.07.27-19.55.23:052][683]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 790...b4b Access[Expires: 2025.07.27-21.55.22 Remaining: 7200.77] Refresh[Expires: 2026-01-23T17:57:01.596Z Remaining: 15544899.60] State: Valid
+[2025.07.27-19.56.17:844][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.07.27-19.56.17:851][847]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/WL/7JZHE6PG6175A6FV7B7ZY8_Auto4
+[2025.07.27-19.56.17:852][847]LogSavePackage: Moving '../../../../../../UEProjects/ModularCar/Saved/7JZHE6PG6175A6FV7B7ZY8_Auto4B6C2DBAF48B0C80A16CBEEB34DAD47F6.tmp' to '../../../../../../UEProjects/ModularCar/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/WL/7JZHE6PG6175A6FV7B7ZY8_Auto4.uasset'
+[2025.07.27-19.56.17:854][847]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.040
+[2025.07.27-19.56.17:854][847]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2025.07.27-19.56.17:854][847]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModularCarSystem/BluePrints/BP_BaseCarPart] ([2] browsable assets)...
+[2025.07.27-19.56.17:854][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularCarSystem/BluePrints/BP_BaseCarPart]
+[2025.07.27-19.56.17:869][847]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModularCarSystem/BluePrints/BP_BaseCarPart_Auto4
+[2025.07.27-19.56.17:870][847]LogSavePackage: Moving '../../../../../../UEProjects/ModularCar/Saved/BP_BaseCarPart_Auto42916B7134E1EC85E2988F5884244A336.tmp' to '../../../../../../UEProjects/ModularCar/Saved/Autosaves/Game/ModularCarSystem/BluePrints/BP_BaseCarPart_Auto4.uasset'
+[2025.07.27-19.56.17:871][847]LogFileHelpers: Auto-saving content packages took 0.017
+[2025.07.27-19.58.20:334][215]LogDerivedDataCache: C:/Users/mwwos/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.27-20.00.10:786][544]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7404.586914
+[2025.07.27-20.00.11:787][547]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.27-20.00.11:787][548]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7405.253906, Update Interval: 346.226379
+[2025.07.27-20.03.27:179][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.07.27-20.03.30:196][133]LogSlate: Window 'Save Content' being destroyed
+[2025.07.27-20.03.32:779][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.07.27-20.03.32:783][277]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.27-20.03.32:880][277]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/WL/7JZHE6PG6175A6FV7B7ZY8
+[2025.07.27-20.03.32:881][277]LogSavePackage: Moving '../../../../../../UEProjects/ModularCar/Saved/7JZHE6PG6175A6FV7B7ZY8399AD20442ACB3D425C36F9DB1999ABA.tmp' to '../../../../../../UEProjects/ModularCar/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/WL/7JZHE6PG6175A6FV7B7ZY8.uasset'
+[2025.07.27-20.03.32:884][277]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModularCarSystem/BluePrints/BP_BaseCarPart] ([2] browsable assets)...
+[2025.07.27-20.03.32:884][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularCarSystem/BluePrints/BP_BaseCarPart]
+[2025.07.27-20.03.32:884][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ModularCarSystem/BluePrints/BP_BaseCarPart" FILE="../../../../../../UEProjects/ModularCar/Content/ModularCarSystem/BluePrints/BP_BaseCarPart.uasset" SILENT=true
+[2025.07.27-20.03.32:899][277]LogSavePackage: Moving output files for package: /Game/ModularCarSystem/BluePrints/BP_BaseCarPart
+[2025.07.27-20.03.32:899][277]LogSavePackage: Moving '../../../../../../UEProjects/ModularCar/Saved/BP_BaseCarPartE0D32F4E4506B1550FBFA5BDD98716C7.tmp' to '../../../../../../UEProjects/ModularCar/Content/ModularCarSystem/BluePrints/BP_BaseCarPart.uasset'
+[2025.07.27-20.03.32:909][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.563 ms (total: 2.93 sec)
+[2025.07.27-20.03.32:985][277]LogContentValidation: Display: Starting to validate 3 assets
+[2025.07.27-20.03.32:985][277]LogContentValidation: Enabled validators:
+[2025.07.27-20.03.32:985][277]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.27-20.03.32:985][277]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.27-20.03.32:985][277]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.27-20.03.32:985][277]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.27-20.03.32:985][277]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.27-20.03.32:985][277]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.27-20.03.32:986][277]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.07.27-20.03.32:986][277]AssetCheck: /Game/ModularCarSystem/BluePrints/BP_BaseCarPart Validating asset
